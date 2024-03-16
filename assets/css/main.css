@@ -136,6 +136,14 @@ input, select, textarea {
 		color: #474e43;
 	}
 
+	.logo-center{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		padding-bottom: 20px;
+
+	}
+
 	img.left {
 		float: left;
 		margin: 2px 1.25em 0 0;
